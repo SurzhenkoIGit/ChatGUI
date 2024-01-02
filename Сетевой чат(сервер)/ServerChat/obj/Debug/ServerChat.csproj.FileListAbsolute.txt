@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Сетевой чат\ServerChat\bin\Debug\ServerChat.exe.config
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Сетевой чат\ServerChat\bin\Debug\ServerChat.exe
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Сетевой чат\ServerChat\bin\Debug\ServerChat.pdb
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Сетевой чат\ServerChat\obj\Debug\ServerChat.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Сетевой чат\ServerChat\obj\Debug\ServerChat.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Сетевой чат\ServerChat\obj\Debug\ServerChat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Сетевой чат\ServerChat\obj\Debug\ServerChat.exe
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Сетевой чат\ServerChat\obj\Debug\ServerChat.pdb

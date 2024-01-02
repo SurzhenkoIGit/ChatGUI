@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Чат(GUI)\Чат(GUI)\bin\Debug\Чат(GUI).exe.config
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Чат(GUI)\Чат(GUI)\bin\Debug\Чат(GUI).exe
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Чат(GUI)\Чат(GUI)\bin\Debug\Чат(GUI).pdb
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Чат(GUI)\Чат(GUI)\obj\Debug\Чат(GUI).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Чат(GUI)\Чат(GUI)\obj\Debug\Чат(GUI).csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Чат(GUI)\Чат(GUI)\obj\Debug\Чат_GUI_.Form1.resources
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Чат(GUI)\Чат(GUI)\obj\Debug\Чат_GUI_.Properties.Resources.resources
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Чат(GUI)\Чат(GUI)\obj\Debug\Чат(GUI).csproj.GenerateResource.cache
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Чат(GUI)\Чат(GUI)\obj\Debug\Чат(GUI).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Чат(GUI)\Чат(GUI)\obj\Debug\Чат(GUI).exe
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Чат(GUI)\Чат(GUI)\obj\Debug\Чат(GUI).pdb
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Чат(GUI)\Чат(GUI)\obj\Debug\Чат_GUI_.AuthForm.resources
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Экзамен\Чат(GUI)\Чат(GUI)\obj\Debug\Чат_GUI_.RegForm.resources
